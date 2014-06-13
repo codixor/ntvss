@@ -1,0 +1,10 @@
+{
+	"require": {
+		"php": ">=5.3.0",
+		"illuminate/database": "4.1.*",
+		"illuminate/cache": "4.1.*",
+		"fabpot/goutte": "~2.0",
+		"nesbot/Carbon": "*"
+	},
+	"minimum-stability": "stable"
+}
